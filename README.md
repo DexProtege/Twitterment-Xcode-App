@@ -12,10 +12,10 @@ It is a personal project developed by me in Xcode using Swift5. It is basically 
 
 ## Screenshots
 
-<p><img src="screenshots/1.png" width="350" > &emsp;&emsp;
-<img src="screenshots/2.png" width="350" ></p>
-<p><img src="screenshots/3.png" width="350" > &emsp;&emsp;
-<img src="screenshots/4.png" width="350" ></p>
+<p><img src="screenshots/1.png" width="200" >
+<img src="screenshots/2.png" width="200" >
+<p><img src="screenshots/3.png" width="200" >
+<img src="screenshots/4.png" width="200" ></p>
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
